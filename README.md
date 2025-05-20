@@ -11,7 +11,7 @@ This project delves into the dynamic world of data analyst careers by analyzing:
 By leveraging SQL for data exploration and analysis, this project uncovers valuable insights into what makes a data analyst role both lucrative and sought after.
 
 🔍 SQL Queries & Scripts
-All SQL queries used in this project can be found in the [SQL_project folder](/SQL_project/)
+All SQL queries used in this project can be found in the [SQL_project folder](/SQL_Project/)
 # Background
 This project was created to better understand and navigate the data analyst job market. The goal is to identify the highest-paying roles and most in-demand skills—helping others save time and effort in finding the best career opportunities.
 ### The key questions explored through my SQL queries include:
