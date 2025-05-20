@@ -14,7 +14,7 @@ WHERE
 GROUP BY skills, job_title_short,job_title
 ORDER BY
    avg_salary DESC
-LIMIT 50;
+LIMIT 15;
     
 
 /*
