@@ -38,7 +38,7 @@ FROM
 INNER JOIN average_salary ON demand_skills.skill_id = average_salary.skill_id
 ORDER BY demand_count DESC,
         avg_salary DESC
-LIMIT 25;
+LIMIT 10;
 
 
 
@@ -61,4 +61,4 @@ GROUP BY
     skills_dim.skill_id
 ORDER BY demand_count DESC,
     avg_salary DESC
-LIMIT 25;
+LIMIT 10;
